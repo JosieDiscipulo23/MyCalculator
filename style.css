@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+input[type="number"] {
+    padding: 5px;
+    width: 100px;
+}
+button {
+    padding: 5px 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+}
+    
+.green {
+    background-color: green;
+}
+.red {
+    background-color: red;
+}
